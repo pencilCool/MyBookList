@@ -1,5 +1,6 @@
 
-###[Advanced Apple Debugging & Reverse Engineering](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering?_ga=2.221474776.1569185225.1496190580-561156048.1496190561) [私有资源](https://git.oschina.net/pencilCool/advancedebug)
+### [Advanced Apple Debugging & Reverse Engineering](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering?_ga=2.221474776.1569185225.1496190580-561156048.1496190561) 
+[私有资源](https://git.oschina.net/pencilCool/advancedebug)
 
 ### High Performance iOS Apps
 这本书由五部分组成。[source code](https://github.com/gvaish/hpios)
